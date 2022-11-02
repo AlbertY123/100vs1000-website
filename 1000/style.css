@@ -1,0 +1,26 @@
+h1, p, footer{
+    text-align: center;
+}
+p{
+    color: rgb(4, 4, 114);
+    font-size: 21px;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+}
+body{
+    background: linear-gradient(90deg, hsla(33, 100%, 53%, 1) 0%, hsla(58, 100%, 68%, 1) 100%);
+}
+nav a {
+    color: rgb(0, 153, 255);
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 18px;
+}
+nav{
+    text-align: center;
+    width: 100%;
+}
